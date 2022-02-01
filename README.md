@@ -1,2 +1,5 @@
 # sundrypython
-test
+Prerequisites
+Python3
+Jupyter notebook
+OpenCV
