@@ -2,3 +2,4 @@
 Prerequisites
 Python3
 Jupyter notebook
+OpenCV
